@@ -24,3 +24,6 @@ Website consists of seven pages in total, including:
   * Name of the site on the left of the navigation bar, allowing users to return to the landing page from any page
   * A dropdown menu named "Plots," to provide links to each individual visualization page
   * Text links: "Comparisons," which links to the comparisons page, and "Data," which links to the data page
+
+## URL
+https://isidhu09.github.io/web-design-challenge/
